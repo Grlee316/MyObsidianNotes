@@ -1,0 +1,14 @@
+{
+  "strictLineBreaks": false,
+  "readableLineLength": true,
+  "showFrontmatter": true,
+  "attachmentFolderPath": "Pasted Pictures",
+  "showLineNumber": false,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}

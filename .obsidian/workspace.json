@@ -1,0 +1,277 @@
+{
+  "main": {
+    "id": "ea5d8eefdea31b5e",
+    "type": "split",
+    "children": [
+      {
+        "id": "b5ce5080ccfc4c28",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "47ff5b72c662bd05",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ECE 4303L - OMAR/Ucertify part 1 - Computer Network Fundamental.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "25d895e84287cec6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ECE 4303L - OMAR/Ucertify part 2 - The OSI Reference Model.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c371dc426b5c685f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ECE 4303L - OMAR/LAB 8 Note.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "824520fc5d97f4cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ECE 4703 - Yu/Lecture 1 - 08292023.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "efaff466dd247c89",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ECE 4703 - Yu/Lecture 1 - 08292023.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6427e9891b26e613",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Good Stuffs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d28ef12fc976a7b3",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.5"
+              }
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a23d3dd3023e9b4a",
+    "type": "split",
+    "children": [
+      {
+        "id": "bcc8f80c43836fab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "da8209903d8f176a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "695febf28cf6efce",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7e65f19ab50a29d5",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "0df1ab10a4a318ed",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "72d67abf682f6205",
+    "type": "split",
+    "children": [
+      {
+        "id": "e35617bf4aa139ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c5f772762e8e0b30",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Good Stuffs.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ab21e472969b0c88",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Good Stuffs.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "df221962dfaf224d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "72db8fa28c745409",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Good Stuffs.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d28ef12fc976a7b3",
+  "lastOpenFiles": [
+    "README.md",
+    "ECE 4703 - Yu/Lecture 1 - 08292023.md",
+    "Good Stuffs.md",
+    "ECE 3709L - Tarek/Lecture 1 - 08292023.md",
+    "ECE 3709L - Tarek",
+    "ECE 4715 - Eddin/Lecture 1 - 08282023.md",
+    "ECE 4703 - Yu",
+    "ECE 4309 - Formicola/Lecture 1 _ 08282023.md",
+    "ECE 4715 - Eddin",
+    "ECE 4309 - Formicola",
+    "Untitled 1.md",
+    "ECE 4303L - OMAR/Lab Exam 1.md",
+    "ECE 4303L - OMAR/LAB 8 Note.md",
+    "ECE 4303L - OMAR/Ucertify part 4 - Ethernet Technology.md",
+    "Pasted Pictures/Pasted image 20230716165320.png",
+    "lottery.md",
+    "Pasted Pictures/Pasted image 20230716164437.png",
+    "Pasted Pictures/Pasted image 20230716164334.png",
+    "Pasted Pictures/Pasted image 20230716163044.png",
+    "Pasted Pictures/Pasted image 20230716163022.png",
+    "Pasted Pictures/Pasted image 20230716162906.png",
+    "Pasted Pictures/Pasted image 20230716162859.png",
+    "ECE 4303L - OMAR/Ucertify part 3 - Network Components.md",
+    "ECE 4303L - OMAR/Ucertify part 1 - Computer Network Fundamental.md",
+    "ECE 5110/Lecture Notes/Lecture 7 - 04182023.md",
+    "ECE 4300 - ALY/Lecture/MIPS.md",
+    "Linux.md",
+    "ECE 4303L - OMAR/Ucertify part 2 - The OSI Reference Model.md",
+    "Pasted Pictures/Pasted image 20230706231043.png",
+    "Pasted Pictures/Pasted image 20230706231031.png",
+    "ECE 3709 - PERNALENTE/Introduction.md",
+    "Networking Notes.md",
+    "Pasted Pictures/Pasted image 20230620235919.png",
+    "ECE 3709 - PERNALENTE",
+    "ECE 4303 - OMAR/Lecture Notes 1.md",
+    "ECE 4303L - OMAR",
+    "Housing 2.0.md",
+    "ECE 4303 - OMAR",
+    "ECE 5110/Lecture Documents/Unit2_ECE5110.pdf",
+    "ECE 5110/Lecture Documents/Unit3_ECE5110.pdf",
+    "ECE 5110/Lecture Documents/Unit4_ECE5110_SystemOfEq.pdf",
+    "ECE 5110/Lecture Notes/Lecture 6 - 04132023.md",
+    "ECE 4300 - ALY/Lecture Notes/Lecture 18 - 04162023.md",
+    "ECE 5110/Lecture Notes/Lecture 4 - 03142023.md",
+    "ECE 5110/Lecture Notes/Lecture 5 - 03162023.md",
+    "ECE 4300 - ALY/Lecture Notes/Lecture 16 - 03202023.md"
+  ]
+}
