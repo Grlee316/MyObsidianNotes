@@ -73,24 +73,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Good Stuffs.md",
+                "file": "ECE 4309 - Formicola/Lecture 2 _09062023.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "d28ef12fc976a7b3",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.5"
-              }
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -164,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Good Stuffs.md",
+                "file": "ECE 4309 - Formicola/Lecture 2 _09062023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Good Stuffs.md",
+                "file": "ECE 4309 - Formicola/Lecture 2 _09062023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Good Stuffs.md"
+                "file": "ECE 4309 - Formicola/Lecture 2 _09062023.md"
               }
             }
           }
@@ -225,11 +215,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d28ef12fc976a7b3",
+  "active": "6427e9891b26e613",
   "lastOpenFiles": [
+    "Good Stuffs.md",
+    "ECE 4309 - Formicola/Lecture 2 _09062023.md",
     "README.md",
     "ECE 4703 - Yu/Lecture 1 - 08292023.md",
-    "Good Stuffs.md",
     "ECE 3709L - Tarek/Lecture 1 - 08292023.md",
     "ECE 3709L - Tarek",
     "ECE 4715 - Eddin/Lecture 1 - 08282023.md",
@@ -271,7 +262,6 @@
     "ECE 5110/Lecture Notes/Lecture 6 - 04132023.md",
     "ECE 4300 - ALY/Lecture Notes/Lecture 18 - 04162023.md",
     "ECE 5110/Lecture Notes/Lecture 4 - 03142023.md",
-    "ECE 5110/Lecture Notes/Lecture 5 - 03162023.md",
-    "ECE 4300 - ALY/Lecture Notes/Lecture 16 - 03202023.md"
+    "ECE 5110/Lecture Notes/Lecture 5 - 03162023.md"
   ]
 }
