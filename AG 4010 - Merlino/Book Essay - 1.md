@@ -14,3 +14,9 @@ Highlighted Video Facts:
 -          Flavor is tampered down by “dumbing down the genetics”
 -         cultivating seed by flavor and variety
 
+Second video:
+-          A good life is not just about having a good time, its about having a true time
+-          A life of detachment and temperance
+-          Life of the bacchanal
+-          Pleasurable to you? Then life is good
+-          If you want, hedonism says, life is good
