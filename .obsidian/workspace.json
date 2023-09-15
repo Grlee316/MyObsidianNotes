@@ -95,8 +95,19 @@
                 "file": "ECE 4309 - Formicola/Lectures PDF/4309 - 01 - General principles - Empty Notes.pdf"
               }
             }
+          },
+          {
+            "id": "6cddc72e37ae3874",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.12"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -213,6 +224,16 @@
                 "file": "ECE 4309 - Formicola/Lectures PDF/4309 - 01 - General principles - Empty Notes.pdf"
               }
             }
+          },
+          {
+            "id": "9fbdd56f0b00aa7f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
         ]
       }
@@ -231,7 +252,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "15a411d472293533",
+  "active": "6cddc72e37ae3874",
   "lastOpenFiles": [
     "ECE 4309 - Formicola/Lecture 4 - 09132023.md",
     "ECE 4309 - Formicola/Lecture 2 _ 09062023.md",
