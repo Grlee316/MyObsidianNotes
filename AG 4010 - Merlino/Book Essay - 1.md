@@ -20,3 +20,8 @@ Second video:
 -          Life of the bacchanal
 -          Pleasurable to you? Then life is good
 -          If you want, hedonism says, life is good
+
+==================================================
+By thinking of the following-  Wanting food that is delicious makes a person a hedonist to find and eat delicious food with great flavor. **The seeds that are held by the three largest seed companies are designed to grow in any soil, climate, and country**. A hedonist consumer wants delicious taste through good soil, micro climate, and grown local. Write about any of these ideas or anything else brought up in the video.
+
+**Minimum 450  words- Drop in Assignment DropBox (Maximum 30% originality)** (See Plagiarism Guidelines)
