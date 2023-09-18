@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AG 4010 - Merlino/Book Essay - 1.md",
+                "file": "ECE 4309 - Formicola/Lecture 5 - 09182023.md",
                 "mode": "source",
                 "source": false
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AG 4010 - Merlino/Book Essay - 1.md",
+                "file": "ECE 4309 - Formicola/Lecture 5 - 09182023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AG 4010 - Merlino/Book Essay - 1.md",
+                "file": "ECE 4309 - Formicola/Lecture 5 - 09182023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AG 4010 - Merlino/Book Essay - 1.md"
+                "file": "ECE 4309 - Formicola/Lecture 5 - 09182023.md"
               }
             }
           },
@@ -226,8 +226,9 @@
   },
   "active": "47ff5b72c662bd05",
   "lastOpenFiles": [
-    "ECE 4303L - OMAR/Ucertify part 1 - Computer Network Fundamental.md",
     "AG 4010 - Merlino/Book Essay - 1.md",
+    "ECE 4309 - Formicola/Lecture 5 - 09182023.md",
+    "ECE 4303L - OMAR/Ucertify part 1 - Computer Network Fundamental.md",
     "AG 4010 - Merlino",
     "ECE 4309 - Formicola/Lectures PDF/4309 - 01 - General principles - Empty Notes.pdf",
     "ECE 4309 - Formicola/Lecture 4 - 09132023.md",
@@ -270,7 +271,6 @@
     "Networking Notes.md",
     "Pasted Pictures/Pasted image 20230620235919.png",
     "ECE 4303 - OMAR/Lecture Notes 1.md",
-    "Housing 2.0.md",
-    "ECE 5110/Lecture Notes/Lecture 6 - 04132023.md"
+    "Housing 2.0.md"
   ]
 }
