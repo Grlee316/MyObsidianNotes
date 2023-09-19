@@ -6,4 +6,5 @@ ros2 run turtlesim turtle_teleop_key
 
 
 
-transisto
+transistor -> node (building block)
+father of TCP/IP -> 
