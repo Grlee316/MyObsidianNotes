@@ -20,16 +20,6 @@
             }
           },
           {
-            "id": "c3b302c9acc03b63",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.13"
-              }
-            }
-          },
-          {
             "id": "25d895e84287cec6",
             "type": "leaf",
             "state": {
@@ -89,8 +79,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -235,8 +224,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c3b302c9acc03b63",
+  "active": "47ff5b72c662bd05",
   "lastOpenFiles": [
+    "ECE 4309 - Formicola/Lecture 5 - 09182023.md",
+    "ECE 4715 - Eddin/Lecture 4 - 09182023.md",
     "linked list.md",
     "ROS installation.md",
     "ROS 2 turtlesim.md",
@@ -270,8 +261,6 @@
     "ECE 4310 NOTES",
     "ECE 4309 NOTES/Lecture 2 - 08302023.md",
     "ECE 4309 NOTES",
-    "ECE 4309 - Formicola/Lecture 5 - 09182023.md",
-    "ECE 4715 - Eddin/Lecture 4 - 09182023.md",
     "AG 4010 - Merlino/Book Essay - 1.md",
     "ECE 4303L - OMAR/Ucertify part 1 - Computer Network Fundamental.md",
     "AG 4010 - Merlino",
