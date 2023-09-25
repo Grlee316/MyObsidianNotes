@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ECE 4715 - Eddin/Lecture 4 - 09182023.md",
+                "file": "ECE 4309 - Formicola/Lecture 6 - 09252023.md",
                 "mode": "source",
                 "source": false
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ECE 4715 - Eddin/Lecture 4 - 09182023.md",
+                "file": "ECE 4309 - Formicola/Lecture 6 - 09252023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ECE 4715 - Eddin/Lecture 4 - 09182023.md",
+                "file": "ECE 4309 - Formicola/Lecture 6 - 09252023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ECE 4715 - Eddin/Lecture 4 - 09182023.md"
+                "file": "ECE 4309 - Formicola/Lecture 6 - 09252023.md"
               }
             }
           },
@@ -226,11 +226,12 @@
   },
   "active": "47ff5b72c662bd05",
   "lastOpenFiles": [
+    "ECE 4715 - Eddin/Lecture 4 - 09182023.md",
+    "ECE 4309 - Formicola/Lecture 6 - 09252023.md",
     "ECE 4309 - Formicola/Lectures PDF/4309 - 02 - Basics of cryptography_part 1.pdf",
     "ECE 4309 - Formicola/Lectures PDF/4309 - 00 - Basics of computer networks and systems - Example - with space.pdf",
     "ECE 4309 - Formicola/Lectures PDF/4309 - 00 - Basics of computer networks and systems - Example.pdf",
     "ECE 4309 - Formicola/Lecture 5 - 09182023.md",
-    "ECE 4715 - Eddin/Lecture 4 - 09182023.md",
     "linked list.md",
     "ROS installation.md",
     "ROS 2 turtlesim.md",
@@ -261,7 +262,6 @@
     "Medias/Pasted image 20230427181507.png",
     "Medias/Pasted image 20230427181205.png",
     "Medias",
-    "ECE 4310 NOTES",
     "ECE 4309 NOTES/Lecture 2 - 08302023.md",
     "AG 4010 - Merlino/Book Essay - 1.md",
     "ECE 4303L - OMAR/Ucertify part 1 - Computer Network Fundamental.md",
