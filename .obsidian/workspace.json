@@ -11,8 +11,12 @@
             "id": "3a31c48adec92867",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "ECE 4703 - Yu/Catkin.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "ECE 4703 - Yu/Catkin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "ECE 4703 - Yu/Catkin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "ECE 4703 - Yu/Catkin.md"
+              }
             }
           },
           {
@@ -159,6 +167,7 @@
   "active": "3a31c48adec92867",
   "lastOpenFiles": [
     "ECE 4703 - Yu/Documents/lecture4703-fa23-w5.pdf",
+    "ECE 4703 - Yu/Catkin.md",
     "ECE 4703 - Yu/Documents/lecture4703-fa23-w4.pdf",
     "ECE 4703 - Yu/Documents/lecture4703-fa23-w3.pdf",
     "ECE 4703 - Yu/Documents/lecture4703-fa23-w2.pdf",
@@ -173,7 +182,6 @@
     "conflict-files-obsidian-git.md",
     "ECE 4715 - Eddin/Lecture 4 - 09182023.md",
     "ECE 4309 - Formicola/Lectures PDF/4309 - 02 - Basics of cryptography_part 3 - Public Encryption and applications.pdf",
-    "ECE 4309 - Formicola/Lectures PDF/4309 - 02 - Basics of cryptography_part 3 - Public Encryption and applications - with space.pdf",
     "ECE 4309 - Formicola/Lecture 6 - 09252023.md",
     "ECE 4703 - Yu/ROS2 CATKIN.md",
     "ECE 4703 - Yu/ROS installation.md",
@@ -194,7 +202,6 @@
     "ECE 4303L - OMAR/LAB 8 Note.md",
     "ECE 4303L - OMAR/Ucertify part 4 - Ethernet Technology.md",
     "Pasted Pictures/Pasted image 20230716165320.png",
-    "lottery.md",
     "Pasted Pictures/Pasted image 20230716164437.png",
     "Pasted Pictures/Pasted image 20230716164334.png",
     "Pasted Pictures/Pasted image 20230716163044.png",
