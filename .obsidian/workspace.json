@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ECE 4703 - Yu/ROS 2 turtlesim.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c3b302c9acc03b63",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ECE 4715 - Eddin/Lecture 4 - 09182023.md",
+                "file": "ECE 4715 - Eddin/Lecture 6 - 09252023.md",
                 "mode": "source",
                 "source": false
               }
@@ -91,8 +79,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -150,7 +137,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "72d67abf682f6205",
@@ -166,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ECE 4715 - Eddin/Lecture 4 - 09182023.md",
+                "file": "ECE 4715 - Eddin/Lecture 6 - 09252023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ECE 4715 - Eddin/Lecture 4 - 09182023.md",
+                "file": "ECE 4715 - Eddin/Lecture 6 - 09252023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ECE 4715 - Eddin/Lecture 4 - 09182023.md"
+                "file": "ECE 4715 - Eddin/Lecture 6 - 09252023.md"
               }
             }
           },
@@ -239,8 +227,8 @@
   },
   "active": "47ff5b72c662bd05",
   "lastOpenFiles": [
-<<<<<<< Updated upstream
-=======
+    "ROS installation.md",
+    "ROS 2 turtlesim.md",
     "ECE 4703 - Yu/Documents/Appendix B-ROS install.pdf",
     "ECE 4703 - Yu/Documents/ROS Operation Test-W3.pdf",
     "ECE 4703 - Yu/Documents/lecture4703-fa23-w5.pdf",
@@ -254,30 +242,10 @@
     "ECE 4703 - Yu/ROS installation.md",
     "ECE 4703 - Yu/ROS 2 turtlesim.md",
     "ECE 4309 - Formicola/Lecture 6 - 09252023.md",
->>>>>>> Stashed changes
     "ECE 4715 - Eddin/Lecture 6 - 09252023.md",
-    "ECE 4309 - Formicola/Lectures PDF/4309 - 02 - Basics of cryptography_part 3 - Public Encryption and applications.pdf",
-    "ECE 4309 - Formicola/Lectures PDF/4309 - 02 - Basics of cryptography_part 3 - Public Encryption and applications - with space.pdf",
-    "ECE 4309 - Formicola/Lectures PDF/4309 - 02 - Basics of cryptography_part 2 - Hash functions.pdf",
-    "ECE 4309 - Formicola/Lectures PDF/4309 - 02 - Basics of cryptography_part 2 - Hash functions - with space.pdf",
-    "ECE 4309 - Formicola/Lectures PDF/4309 - 02 - Basics of cryptography_part 1.pdf",
-<<<<<<< Updated upstream
-    "ECE 4309 - Formicola/Lectures PDF/4309 - 02 - Basics of cryptography_part 1 - with space.pdf",
-    "ECE 4309 - Formicola/Lectures PDF/4309 - 02 - Basics of cryptography_part 1 - Updated version.pdf",
-    "ECE 4309 - Formicola/Lectures PDF/4309 - 02 - Basics of cryptography_part 1 - Updated version - with space.pdf",
-    "ECE 4309 - Formicola/Lectures PDF/4309 - 00 - Basics of computer networks and systems - Example.pdf",
-    "ECE 4309 - Formicola/Lectures PDF/4309 - 00 - Basics of computer networks and systems - Example - with space.pdf",
-    "ECE 4309 - Formicola/Lecture 6 - 09252023.md",
-    "ECE 4703 - Yu/ROS2 CATKIN.md",
-    "ECE 4703 - Yu/ROS 2 turtlesim.md",
-    "ECE 4703 - Yu/ROS installation.md",
     "ECE 4715 - Eddin/Lecture 4 - 09182023.md",
     "ECE 4309 - Formicola/Lecture 5 - 09182023.md",
-=======
-    "ECE 4309 - Formicola/Lecture 5 - 09182023.md",
     "linked list.md",
-    "ROS installation.md",
-    "ROS 2 turtlesim.md",
     "Notes/List.md",
     "Notes/Lecture Driver - 04252023.md",
     "Notes/Lecture 8 - 03162023.md",
@@ -299,39 +267,10 @@
     "Medias/Pasted image 20230427181507.png",
     "Medias/Pasted image 20230427181205.png",
     "ECE 4309 NOTES/Lecture 2 - 08302023.md",
->>>>>>> Stashed changes
     "AG 4010 - Merlino/Book Essay - 1.md",
     "ECE 4303L - OMAR/Ucertify part 1 - Computer Network Fundamental.md",
     "ECE 4309 - Formicola/Lecture 4 - 09132023.md",
     "ECE 4309 - Formicola/Lecture 2 _ 09062023.md",
-<<<<<<< Updated upstream
-    "ECE 3709L - Tarek/Lecture 2 - 09122023.md",
-    "ECE 4309 - Formicola/Lecture 3 - 09112023.md",
-    "Good Stuffs.md",
-    "README.md",
-    "ECE 4703 - Yu/Lecture 1 - 08292023.md",
-    "ECE 4715 - Eddin/Lecture 1 - 08282023.md",
-    "ECE 4309 - Formicola/Lecture 1 _ 08282023.md",
-    "Untitled 1.md",
-    "ECE 4303L - OMAR/Lab Exam 1.md",
-    "ECE 4303L - OMAR/LAB 8 Note.md",
-    "ECE 4303L - OMAR/Ucertify part 4 - Ethernet Technology.md",
-    "Pasted Pictures/Pasted image 20230716165320.png",
-    "lottery.md",
-    "Pasted Pictures/Pasted image 20230716164437.png",
-    "Pasted Pictures/Pasted image 20230716164334.png",
-    "Pasted Pictures/Pasted image 20230716163044.png",
-    "Pasted Pictures/Pasted image 20230716163022.png",
-    "Pasted Pictures/Pasted image 20230716162906.png",
-    "Pasted Pictures/Pasted image 20230716162859.png",
-    "ECE 4303L - OMAR/Ucertify part 3 - Network Components.md",
-    "ECE 5110/Lecture Notes/Lecture 7 - 04182023.md",
-    "ECE 4300 - ALY/Lecture/MIPS.md",
-    "Pasted Pictures/Pasted image 20230706231043.png",
-    "Pasted Pictures/Pasted image 20230706231031.png",
-    "Pasted Pictures/Pasted image 20230620235919.png"
-=======
     "ECE 3709L - Tarek/Lecture 2 - 09122023.md"
->>>>>>> Stashed changes
   ]
 }
