@@ -237,14 +237,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "da8209903d8f176a",
+  "active": "47ff5b72c662bd05",
   "lastOpenFiles": [
+<<<<<<< Updated upstream
+=======
+    "ECE 4703 - Yu/Documents/Appendix B-ROS install.pdf",
+    "ECE 4703 - Yu/Documents/ROS Operation Test-W3.pdf",
+    "ECE 4703 - Yu/Documents/lecture4703-fa23-w5.pdf",
+    "ECE 4703 - Yu/Documents/lecture4703-fa23-w3.pdf",
+    "ECE 4703 - Yu/Documents/lecture4703-fa23-w4.pdf",
+    "ECE 4703 - Yu/Documents/lecture4703-fa23-w2.pdf",
+    "ECE 4703 - Yu/Documents/lecture4703-fa23-w1.pdf",
+    "ECE 4703 - Yu/Documents/ROS Operation Test.pdf",
+    "ECE 4703 - Yu/Documents",
+    "ECE 4703 - Yu/New folder",
+    "ECE 4703 - Yu/ROS installation.md",
+    "ECE 4703 - Yu/ROS 2 turtlesim.md",
+    "ECE 4309 - Formicola/Lecture 6 - 09252023.md",
+>>>>>>> Stashed changes
     "ECE 4715 - Eddin/Lecture 6 - 09252023.md",
     "ECE 4309 - Formicola/Lectures PDF/4309 - 02 - Basics of cryptography_part 3 - Public Encryption and applications.pdf",
     "ECE 4309 - Formicola/Lectures PDF/4309 - 02 - Basics of cryptography_part 3 - Public Encryption and applications - with space.pdf",
     "ECE 4309 - Formicola/Lectures PDF/4309 - 02 - Basics of cryptography_part 2 - Hash functions.pdf",
     "ECE 4309 - Formicola/Lectures PDF/4309 - 02 - Basics of cryptography_part 2 - Hash functions - with space.pdf",
     "ECE 4309 - Formicola/Lectures PDF/4309 - 02 - Basics of cryptography_part 1.pdf",
+<<<<<<< Updated upstream
     "ECE 4309 - Formicola/Lectures PDF/4309 - 02 - Basics of cryptography_part 1 - with space.pdf",
     "ECE 4309 - Formicola/Lectures PDF/4309 - 02 - Basics of cryptography_part 1 - Updated version.pdf",
     "ECE 4309 - Formicola/Lectures PDF/4309 - 02 - Basics of cryptography_part 1 - Updated version - with space.pdf",
@@ -256,10 +273,38 @@
     "ECE 4703 - Yu/ROS installation.md",
     "ECE 4715 - Eddin/Lecture 4 - 09182023.md",
     "ECE 4309 - Formicola/Lecture 5 - 09182023.md",
+=======
+    "ECE 4309 - Formicola/Lecture 5 - 09182023.md",
+    "linked list.md",
+    "ROS installation.md",
+    "ROS 2 turtlesim.md",
+    "Notes/List.md",
+    "Notes/Lecture Driver - 04252023.md",
+    "Notes/Lecture 8 - 03162023.md",
+    "Notes/Lecture 7 - 02232023.md",
+    "Notes/Lecture 6 - 02212023.md",
+    "Notes/Lecture 5 - 02072023.md",
+    "Notes/Lecture 4 - 02022023.md",
+    "Notes/Lecture 3 - 01312023.md",
+    "Notes/Lecture 12 - 04112023.md",
+    "Notes/IOCTL.md",
+    "Medias/Pasted image 20230509180747.png",
+    "Medias/Pasted image 20230502181214.png",
+    "Medias/Pasted image 20230502181207.png",
+    "Medias/Pasted image 20230502175542.png",
+    "Medias/Pasted image 20230502175439.png",
+    "Medias/Pasted image 20230427183507.png",
+    "Medias/Pasted image 20230427182315.png",
+    "Medias/Pasted image 20230427182303.png",
+    "Medias/Pasted image 20230427181507.png",
+    "Medias/Pasted image 20230427181205.png",
+    "ECE 4309 NOTES/Lecture 2 - 08302023.md",
+>>>>>>> Stashed changes
     "AG 4010 - Merlino/Book Essay - 1.md",
     "ECE 4303L - OMAR/Ucertify part 1 - Computer Network Fundamental.md",
     "ECE 4309 - Formicola/Lecture 4 - 09132023.md",
     "ECE 4309 - Formicola/Lecture 2 _ 09062023.md",
+<<<<<<< Updated upstream
     "ECE 3709L - Tarek/Lecture 2 - 09122023.md",
     "ECE 4309 - Formicola/Lecture 3 - 09112023.md",
     "Good Stuffs.md",
@@ -285,5 +330,8 @@
     "Pasted Pictures/Pasted image 20230706231043.png",
     "Pasted Pictures/Pasted image 20230706231031.png",
     "Pasted Pictures/Pasted image 20230620235919.png"
+=======
+    "ECE 3709L - Tarek/Lecture 2 - 09122023.md"
+>>>>>>> Stashed changes
   ]
 }
