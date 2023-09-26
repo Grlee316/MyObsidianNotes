@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "516a350de03ed300",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "25d895e84287cec6",
             "type": "leaf",
             "state": {
@@ -79,7 +91,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -154,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ECE 4715 - Eddin/Lecture 6 - 09252023.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ECE 4715 - Eddin/Lecture 6 - 09252023.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ECE 4715 - Eddin/Lecture 6 - 09252023.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -225,8 +238,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "47ff5b72c662bd05",
+  "active": "516a350de03ed300",
   "lastOpenFiles": [
+    "ECE 4715 - Eddin/Lecture 6 - 09252023.md",
+    "conflict-files-obsidian-git.md",
     "ROS installation.md",
     "ROS 2 turtlesim.md",
     "ECE 4703 - Yu/Documents/Appendix B-ROS install.pdf",
@@ -242,7 +257,6 @@
     "ECE 4703 - Yu/ROS installation.md",
     "ECE 4703 - Yu/ROS 2 turtlesim.md",
     "ECE 4309 - Formicola/Lecture 6 - 09252023.md",
-    "ECE 4715 - Eddin/Lecture 6 - 09252023.md",
     "ECE 4715 - Eddin/Lecture 4 - 09182023.md",
     "ECE 4309 - Formicola/Lecture 5 - 09182023.md",
     "linked list.md",
