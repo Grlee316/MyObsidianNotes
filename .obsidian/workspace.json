@@ -61,25 +61,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ECE 4703 - Yu/Lecture 1 - 08292023.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6427e9891b26e613",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ECE 4309 - Formicola/Lecture 4 - 09132023.md",
+                "file": "AG 4010 - Merlino/Book Essay - 2.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -137,8 +126,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "72d67abf682f6205",
@@ -154,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ECE 4715 - Eddin/Lecture 7 - 09272023.md",
+                "file": "AG 4010 - Merlino/Book Essay - 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ECE 4715 - Eddin/Lecture 7 - 09272023.md",
+                "file": "AG 4010 - Merlino/Book Essay - 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ECE 4715 - Eddin/Lecture 7 - 09272023.md"
+                "file": "AG 4010 - Merlino/Book Essay - 2.md"
               }
             }
           },
@@ -225,10 +213,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "da8209903d8f176a",
+  "active": "efaff466dd247c89",
   "lastOpenFiles": [
-    "ECE 4309 - Formicola/Lecture 6 - 09252023.md",
+    "AG 4010 - Merlino/Book Essay - 1.md",
+    "AG 4010 - Merlino/Book Essay - 2.md",
+    "ECE 4703 - Yu/Lecture 1 - 08292023.md",
+    "ECE 4309 - Formicola/Lecture 4 - 09132023.md",
+    "ECE 4303L - OMAR/Ucertify part 2 - The OSI Reference Model.md",
     "ECE 4715 - Eddin/Lecture 7 - 09272023.md",
+    "ECE 4309 - Formicola/Lecture 6 - 09252023.md",
     "ECE 4715 - Eddin/Lecture 6 - 09252023.md",
     "conflict-files-obsidian-git.md",
     "ROS installation.md",
@@ -267,11 +260,6 @@
     "Medias/Pasted image 20230427182315.png",
     "Medias/Pasted image 20230427182303.png",
     "Medias/Pasted image 20230427181507.png",
-    "Medias/Pasted image 20230427181205.png",
-    "ECE 4309 NOTES/Lecture 2 - 08302023.md",
-    "AG 4010 - Merlino/Book Essay - 1.md",
-    "ECE 4303L - OMAR/Ucertify part 1 - Computer Network Fundamental.md",
-    "ECE 4309 - Formicola/Lecture 4 - 09132023.md",
-    "ECE 4309 - Formicola/Lecture 2 _ 09062023.md"
+    "Medias/Pasted image 20230427181205.png"
   ]
 }
