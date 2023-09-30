@@ -61,3 +61,45 @@ References
 **You must have a minimum of 450 words. Minimum 5 sentences per paragraph. More receives higher grades.**
 
 The goal is for you to use your text or PowerPoints, and other agricultural research articles/and or/ videos when writing your book assignments about the yellow highlighted video.
+
+=====================================
+
+by thinking of the following- Using the Desire Theory to buy clothes that we wear, If something makes us better off, then it satisfies our desires. What if you use Desire Theory to buy clothes ethically? Tons of ethical  fashion issues in the video!!!  Child labor, organic vs. nonorganic, chemical poison of farmers in cotton farming, marketing an ethical fashion product, social responsibility in the fashion world, etc.
+
+Title: The Unsustainable Fast Fashion Or The Unsustainable Desire
+
+Ideas:
+
+-          Fast clothing models
+
+-          People creates both side of the final team
+
+-          [https://www.mentalfloss.com/article/29884/what-happens-losing-teams-championship-shirts](https://www.mentalfloss.com/article/29884/what-happens-losing-teams-championship-shirts)
+
+-          [https://www.wsaz.com/2023/01/31/what-happens-nfl-champions-gear-pre-printed-losing-team/](https://www.wsaz.com/2023/01/31/what-happens-nfl-champions-gear-pre-printed-losing-team/)
+
+-          [https://www.yahoo.com/video/what-happens-to-the-losing-teams-super-bowl-merchandise-203457283.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAI5Sp9y7v1vRTyuLtxfh93t7oEIhxAeHGO4-zX1Ni5G0rRsihuPL4e5Yg8ezMW-53ISUBvuuzWSEtNvifxHoJw3Aevwia6JJK71cQCFdFpWDbA9V1b3rxNoMot9gnipVyAMvdt99TFuKyn7QlhSOXe-qI7jLvIzkg808SAvyT5XQ](https://www.yahoo.com/video/what-happens-to-the-losing-teams-super-bowl-merchandise-203457283.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAI5Sp9y7v1vRTyuLtxfh93t7oEIhxAeHGO4-zX1Ni5G0rRsihuPL4e5Yg8ezMW-53ISUBvuuzWSEtNvifxHoJw3Aevwia6JJK71cQCFdFpWDbA9V1b3rxNoMot9gnipVyAMvdt99TFuKyn7QlhSOXe-qI7jLvIzkg808SAvyT5XQ)
+
+-          What is fast fashion
+
+-          [https://www.ethicalconsumer.org/fashion-clothing/what-fast-fashion-why-it-problem](https://www.ethicalconsumer.org/fashion-clothing/what-fast-fashion-why-it-problem)
+
+-          Organic Cotton vs Non-Organic Cotton
+
+-          [https://www.swedishlinens.com/blogs/news/organic-vs-conventional-cotton](https://www.swedishlinens.com/blogs/news/organic-vs-conventional-cotton)
+
+-          Stuffs being produced every second
+
+-          [https://www.forbes.com/sites/bernardmarr/2018/05/21/how-much-data-do-we-create-every-day-the-mind-blowing-stats-everyone-should-read/?sh=509fa0f260ba](https://www.forbes.com/sites/bernardmarr/2018/05/21/how-much-data-do-we-create-every-day-the-mind-blowing-stats-everyone-should-read/?sh=509fa0f260ba)
+
+-           
+
+fast clothing is an unsustainable clothing, we can desire it all we want, but we’re ruining our planet by the way we consume our clothing
+
+clothe does not last
+
+quality of product gets lower and lower
+
+cheap vs quality
+
+desired a good clothes, but is it sustainable?
