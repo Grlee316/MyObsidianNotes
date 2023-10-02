@@ -11,11 +11,9 @@
             "id": "3a31c48adec92867",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "ECE 4703 - Yu/Catkin.md",
-                "mode": "source",
-                "source": false
+                "file": "ECE 4703 - Yu/Documents/lecture4703-fa23-w5.pdf"
               }
             }
           }
@@ -93,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ECE 4703 - Yu/Catkin.md",
+                "file": "ECE 4703 - Yu/Documents/lecture4703-fa23-w5.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ECE 4703 - Yu/Catkin.md",
+                "file": "ECE 4703 - Yu/Documents/lecture4703-fa23-w5.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ECE 4703 - Yu/Catkin.md"
+                "file": "ECE 4703 - Yu/Documents/lecture4703-fa23-w5.pdf"
               }
             }
           },
@@ -166,9 +164,11 @@
   },
   "active": "3a31c48adec92867",
   "lastOpenFiles": [
+    "ECE 4715 - Eddin/Lecture 7 - 09272023.md",
+    "AG 4010 - Merlino/Book Essay - 2.md",
+    "ECE 4703 - Yu/Documents/lecture4703-fa23-w4.pdf",
     "ECE 4703 - Yu/Documents/lecture4703-fa23-w5.pdf",
     "ECE 4703 - Yu/Catkin.md",
-    "ECE 4703 - Yu/Documents/lecture4703-fa23-w4.pdf",
     "ECE 4703 - Yu/Documents/lecture4703-fa23-w3.pdf",
     "ECE 4703 - Yu/Documents/lecture4703-fa23-w2.pdf",
     "ECE 4703 - Yu/Documents/lecture4703-fa23-w1.pdf",
@@ -200,7 +200,6 @@
     "Untitled 1.md",
     "ECE 4303L - OMAR/Lab Exam 1.md",
     "ECE 4303L - OMAR/LAB 8 Note.md",
-    "ECE 4303L - OMAR/Ucertify part 4 - Ethernet Technology.md",
     "Pasted Pictures/Pasted image 20230716165320.png",
     "Pasted Pictures/Pasted image 20230716164437.png",
     "Pasted Pictures/Pasted image 20230716164334.png",
