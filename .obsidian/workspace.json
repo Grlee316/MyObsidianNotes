@@ -11,9 +11,11 @@
             "id": "3a31c48adec92867",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "ECE 4703 - Yu/Documents/lecture4703-fa23-w5.pdf"
+                "file": "ECE 4703 - Yu/ROS installation.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -91,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ECE 4703 - Yu/Documents/lecture4703-fa23-w5.pdf",
+                "file": "ECE 4703 - Yu/ROS installation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ECE 4703 - Yu/Documents/lecture4703-fa23-w5.pdf",
+                "file": "ECE 4703 - Yu/ROS installation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ECE 4703 - Yu/Documents/lecture4703-fa23-w5.pdf"
+                "file": "ECE 4703 - Yu/ROS installation.md"
               }
             }
           },
@@ -164,13 +166,16 @@
   },
   "active": "3a31c48adec92867",
   "lastOpenFiles": [
-<<<<<<< Updated upstream
-    "ECE 4715 - Eddin/Lecture 7 - 09272023.md",
-    "AG 4010 - Merlino/Book Essay - 2.md",
-=======
->>>>>>> Stashed changes
+    "ECE 4309 - Formicola/Lecture 7 - 10022023.md",
+    "Docker/How to install Docker.md",
+    "Pasted Pictures/Pasted image 20231002131758.png",
+    "Pasted Pictures/Pasted image 20231002131254.png",
+    "Docker",
+    "ECE 4303L - OMAR/LAB 8 Note.md",
     "ECE 4703 - Yu/Documents/lecture4703-fa23-w4.pdf",
     "ECE 4703 - Yu/Documents/lecture4703-fa23-w5.pdf",
+    "ECE 4715 - Eddin/Lecture 7 - 09272023.md",
+    "AG 4010 - Merlino/Book Essay - 2.md",
     "ECE 4703 - Yu/Catkin.md",
     "ECE 4703 - Yu/Documents/lecture4703-fa23-w3.pdf",
     "ECE 4703 - Yu/Documents/lecture4703-fa23-w2.pdf",
@@ -184,7 +189,6 @@
     "ECE 4303L - OMAR/Ucertify part 2 - The OSI Reference Model.md",
     "conflict-files-obsidian-git.md",
     "ECE 4715 - Eddin/Lecture 4 - 09182023.md",
-    "ECE 4309 - Formicola/Lectures PDF/4309 - 02 - Basics of cryptography_part 3 - Public Encryption and applications.pdf",
     "ECE 4309 - Formicola/Lecture 6 - 09252023.md",
     "ECE 4703 - Yu/ROS2 CATKIN.md",
     "ECE 4703 - Yu/ROS installation.md",
@@ -199,10 +203,6 @@
     "README.md",
     "ECE 4703 - Yu/Lecture 1 - 08292023.md",
     "ECE 4715 - Eddin/Lecture 1 - 08282023.md",
-    "ECE 4309 - Formicola/Lecture 1 _ 08282023.md",
-    "Untitled 1.md",
-    "ECE 4303L - OMAR/Lab Exam 1.md",
-    "ECE 4303L - OMAR/LAB 8 Note.md",
     "Pasted Pictures/Pasted image 20230716165320.png",
     "Pasted Pictures/Pasted image 20230716164437.png",
     "Pasted Pictures/Pasted image 20230716164334.png",
@@ -210,8 +210,6 @@
     "Pasted Pictures/Pasted image 20230716163022.png",
     "Pasted Pictures/Pasted image 20230716162906.png",
     "Pasted Pictures/Pasted image 20230716162859.png",
-    "Pasted Pictures/Pasted image 20230706231043.png",
-    "Pasted Pictures/Pasted image 20230706231031.png",
-    "Pasted Pictures/Pasted image 20230620235919.png"
+    "Pasted Pictures/Pasted image 20230706231043.png"
   ]
 }
