@@ -61,14 +61,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AG 4010 - Merlino/Book Essay - 2.md",
+                "file": "Linux Stuffs/Command.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "4b008e8e69cdac01",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.14"
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -142,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AG 4010 - Merlino/Book Essay - 2.md",
+                "file": "Linux Stuffs/Command.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AG 4010 - Merlino/Book Essay - 2.md",
+                "file": "Linux Stuffs/Command.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AG 4010 - Merlino/Book Essay - 2.md"
+                "file": "Linux Stuffs/Command.md"
               }
             }
           },
@@ -213,10 +223,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "efaff466dd247c89",
+  "active": "4b008e8e69cdac01",
   "lastOpenFiles": [
-    "ECE 4715 - Eddin/Lecture 8 - 10022023.md",
     "AG 4010 - Merlino/Book Essay - 2.md",
+    "Linux Stuffs/Command.md",
+    "Linux Stuffs",
+    "ECE 4715 - Eddin/Lecture 8 - 10022023.md",
     "ECE 4703 - Yu/Catkin.md",
     "AG 4010 - Merlino/Book Essay - 1.md",
     "ECE 4703 - Yu/Lecture 1 - 08292023.md",
@@ -237,7 +249,6 @@
     "ECE 4703 - Yu/Documents/lecture4703-fa23-w1.pdf",
     "ECE 4703 - Yu/Documents/ROS Operation Test.pdf",
     "ECE 4703 - Yu/Documents",
-    "ECE 4703 - Yu/New folder",
     "ECE 4703 - Yu/ROS installation.md",
     "ECE 4703 - Yu/ROS 2 turtlesim.md",
     "ECE 4715 - Eddin/Lecture 4 - 09182023.md",
@@ -250,7 +261,6 @@
     "Notes/Lecture 6 - 02212023.md",
     "Notes/Lecture 5 - 02072023.md",
     "Notes/Lecture 4 - 02022023.md",
-    "Notes/Lecture 3 - 01312023.md",
     "Medias/Pasted image 20230509180747.png",
     "Medias/Pasted image 20230502181214.png",
     "Medias/Pasted image 20230502181207.png",
