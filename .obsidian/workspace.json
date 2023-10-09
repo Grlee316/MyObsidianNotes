@@ -71,9 +71,11 @@
             "id": "4b008e8e69cdac01",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.14"
+                "file": "ECE 4715 - Eddin/Lecture 9 - 10092023.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -152,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux Stuffs/Command.md",
+                "file": "ECE 4715 - Eddin/Lecture 9 - 10092023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux Stuffs/Command.md",
+                "file": "ECE 4715 - Eddin/Lecture 9 - 10092023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux Stuffs/Command.md"
+                "file": "ECE 4715 - Eddin/Lecture 9 - 10092023.md"
               }
             }
           },
@@ -225,6 +227,7 @@
   },
   "active": "4b008e8e69cdac01",
   "lastOpenFiles": [
+    "ECE 4715 - Eddin/Lecture 9 - 10092023.md",
     "AG 4010 - Merlino/Book Essay - 2.md",
     "Linux Stuffs/Command.md",
     "Linux Stuffs",
@@ -260,7 +263,6 @@
     "Notes/Lecture 7 - 02232023.md",
     "Notes/Lecture 6 - 02212023.md",
     "Notes/Lecture 5 - 02072023.md",
-    "Notes/Lecture 4 - 02022023.md",
     "Medias/Pasted image 20230509180747.png",
     "Medias/Pasted image 20230502181214.png",
     "Medias/Pasted image 20230502181207.png",
