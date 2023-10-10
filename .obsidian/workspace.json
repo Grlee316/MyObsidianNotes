@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ECE 4715 - Eddin/Lecture 9 - 10092023.md",
+                "file": "AG 4010 - Merlino/Book Essay - 3.md",
                 "mode": "source",
                 "source": false
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ECE 4715 - Eddin/Lecture 9 - 10092023.md",
+                "file": "AG 4010 - Merlino/Book Essay - 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ECE 4715 - Eddin/Lecture 9 - 10092023.md",
+                "file": "AG 4010 - Merlino/Book Essay - 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ECE 4715 - Eddin/Lecture 9 - 10092023.md"
+                "file": "AG 4010 - Merlino/Book Essay - 3.md"
               }
             }
           },
@@ -227,6 +227,8 @@
   },
   "active": "4b008e8e69cdac01",
   "lastOpenFiles": [
+    "ECE 4715 - Eddin/Lecture 9 - 10092023.md",
+    "AG 4010 - Merlino/Book Essay - 3.md",
     "Pasted Pictures/Pasted image 20231003201449.png",
     "Pasted Pictures/Pasted image 20231003200856.png",
     "Pasted Pictures/Pasted image 20231002131758.png",
@@ -239,7 +241,6 @@
     "ECE 4309 - Formicola/Lecture 7 - 10022023.md",
     "Docker/How to install Docker.md",
     "Docker",
-    "ECE 4715 - Eddin/Lecture 9 - 10092023.md",
     "AG 4010 - Merlino/Book Essay - 2.md",
     "Linux Stuffs/Command.md",
     "Linux Stuffs",
@@ -271,7 +272,6 @@
     "Medias/Pasted image 20230502181207.png",
     "Medias/Pasted image 20230502175542.png",
     "Medias/Pasted image 20230502175439.png",
-    "Medias/Pasted image 20230427183507.png",
-    "Medias/Pasted image 20230427182315.png"
+    "Medias/Pasted image 20230427183507.png"
   ]
 }
