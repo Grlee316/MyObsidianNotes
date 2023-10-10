@@ -19,3 +19,4 @@ ros2 run my_package my_node
 customize package.xml
 ![[Pasted image 20231003201449.png]]
 
+
