@@ -13,29 +13,18 @@
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
-                "file": "ECE 4703 - Yu/Ros 2 stuffs.md",
-=======
                 "file": "ECE 4715 - Eddin/Lecture 7 - 09272023.md",
->>>>>>> 1fd2b029024e6c54b95f87af2809843e4e480ec8
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-<<<<<<< HEAD
-            "id": "26c24652bc6602a2",
-=======
             "id": "25d895e84287cec6",
->>>>>>> 1fd2b029024e6c54b95f87af2809843e4e480ec8
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
-                "file": "ECE 4703 - Yu/Ros 2 stuffs.md",
-=======
                 "file": "ECE 4303L - OMAR/Ucertify part 2 - The OSI Reference Model.md",
                 "mode": "source",
                 "source": false
@@ -85,18 +74,13 @@
               "type": "markdown",
               "state": {
                 "file": "ECE 4715 - Eddin/Lecture 9 - 10092023.md",
->>>>>>> 1fd2b029024e6c54b95f87af2809843e4e480ec8
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-<<<<<<< HEAD
-        "currentTab": 1
-=======
         "currentTab": 5
->>>>>>> 1fd2b029024e6c54b95f87af2809843e4e480ec8
       }
     ],
     "direction": "vertical"
@@ -170,11 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "ECE 4703 - Yu/Ros 2 stuffs.md",
-=======
                 "file": "ECE 4715 - Eddin/Lecture 9 - 10092023.md",
->>>>>>> 1fd2b029024e6c54b95f87af2809843e4e480ec8
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,11 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-                "file": "ECE 4703 - Yu/Ros 2 stuffs.md",
-=======
                 "file": "ECE 4715 - Eddin/Lecture 9 - 10092023.md",
->>>>>>> 1fd2b029024e6c54b95f87af2809843e4e480ec8
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,11 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
-                "file": "ECE 4703 - Yu/Ros 2 stuffs.md"
-=======
                 "file": "ECE 4715 - Eddin/Lecture 9 - 10092023.md"
->>>>>>> 1fd2b029024e6c54b95f87af2809843e4e480ec8
               }
             }
           },
@@ -253,58 +225,20 @@
       "command-palette:Open command palette": false
     }
   },
-<<<<<<< HEAD
-  "active": "26c24652bc6602a2",
-  "lastOpenFiles": [
-    "ECE 4703 - Yu/Homework/ECE4703_HW02_JonathanHanbali.pdf",
-    "ECE 4703 - Yu/Homework/lu36241luy.tmp",
-    "ECE 4703 - Yu/Homework/lu36241luh.tmp",
-    "ECE 4703 - Yu/Homework/lu36241lu1.tmp",
-    "ECE 4703 - Yu/Homework/lu36241ltl.tmp",
-    "ECE 4703 - Yu/Homework/lu36241lt5.tmp",
-    "ECE 4703 - Yu/Homework/ECE4703_HW_JonathanHanbali.pdf",
-    "ECE 4703 - Yu/Homework/lu36241lrb.tmp",
-    "ECE 4703 - Yu/Homework/lu36241lqx.tmp",
-    "ECE 4703 - Yu/Homework/lu36241lqk.tmp",
-    "ECE 4703 - Yu/Homework/lu36241lq7.tmp",
-    "Pasted Pictures/Pasted image 20231003201449.png",
-    "ECE 4703 - Yu/Lecture 1 - 08292023.md",
-    "ECE 4703 - Yu/Ros 2 stuffs.md",
-    "Pasted Pictures/Pasted image 20231003200856.png",
-    "ECE 4309 - Formicola/Lecture 7 - 10022023.md",
-    "ECE 4703 - Yu/ROS installation.md",
-    "Docker/How to install Docker.md",
-    "Pasted Pictures/Pasted image 20231002131758.png",
-    "Pasted Pictures/Pasted image 20231002131254.png",
-    "ECE 4303L - OMAR/LAB 8 Note.md",
-    "ECE 4715 - Eddin/Lecture 7 - 09272023.md",
-    "AG 4010 - Merlino/Book Essay - 2.md",
-    "ECE 4703 - Yu/Catkin.md",
-    "ECE 4703 - Yu/ROS 2 turtlesim.md",
-    "ECE 4715 - Eddin/Lecture 6 - 09252023.md",
-    "ECE 4303L - OMAR/Ucertify part 2 - The OSI Reference Model.md",
-    "conflict-files-obsidian-git.md",
-    "ECE 4715 - Eddin/Lecture 4 - 09182023.md",
-    "ECE 4309 - Formicola/Lecture 6 - 09252023.md",
-    "ECE 4703 - Yu/ROS2 CATKIN.md",
-    "ECE 4309 - Formicola/Lecture 5 - 09182023.md",
-    "AG 4010 - Merlino/Book Essay - 1.md",
-    "ECE 4303L - OMAR/Ucertify part 1 - Computer Network Fundamental.md",
-    "ECE 4309 - Formicola/Lecture 4 - 09132023.md",
-    "ECE 4309 - Formicola/Lecture 2 _ 09062023.md",
-    "ECE 3709L - Tarek/Lecture 2 - 09122023.md",
-    "ECE 4309 - Formicola/Lecture 3 - 09112023.md",
-    "Good Stuffs.md",
-    "README.md",
-    "Pasted Pictures/Pasted image 20230716165320.png",
-    "Pasted Pictures/Pasted image 20230716164437.png",
-    "Pasted Pictures/Pasted image 20230716164334.png",
-    "Pasted Pictures/Pasted image 20230716163044.png",
-    "Pasted Pictures/Pasted image 20230716163022.png",
-    "Pasted Pictures/Pasted image 20230716162906.png"
-=======
   "active": "4b008e8e69cdac01",
   "lastOpenFiles": [
+    "Pasted Pictures/Pasted image 20231003201449.png",
+    "Pasted Pictures/Pasted image 20231003200856.png",
+    "Pasted Pictures/Pasted image 20231002131758.png",
+    "Pasted Pictures/Pasted image 20231002131254.png",
+    "ECE 4703 - Yu/Ros 2 stuffs.md",
+    "ECE 4703 - Yu/Homework/ECE4703_HW_JonathanHanbali.pdf",
+    "ECE 4703 - Yu/Homework/ECE4703_HW_JonathanHanbali.docx",
+    "ECE 4703 - Yu/Homework/ECE4703_HW02_JonathanHanbali.pdf",
+    "ECE 4703 - Yu/Homework",
+    "ECE 4309 - Formicola/Lecture 7 - 10022023.md",
+    "Docker/How to install Docker.md",
+    "Docker",
     "ECE 4715 - Eddin/Lecture 9 - 10092023.md",
     "AG 4010 - Merlino/Book Essay - 2.md",
     "Linux Stuffs/Command.md",
@@ -325,11 +259,6 @@
     "ECE 4703 - Yu/Documents/ROS Operation Test-W3.pdf",
     "ECE 4703 - Yu/Documents/lecture4703-fa23-w5.pdf",
     "ECE 4703 - Yu/Documents/lecture4703-fa23-w3.pdf",
-    "ECE 4703 - Yu/Documents/lecture4703-fa23-w4.pdf",
-    "ECE 4703 - Yu/Documents/lecture4703-fa23-w2.pdf",
-    "ECE 4703 - Yu/Documents/lecture4703-fa23-w1.pdf",
-    "ECE 4703 - Yu/Documents/ROS Operation Test.pdf",
-    "ECE 4703 - Yu/Documents",
     "ECE 4703 - Yu/ROS installation.md",
     "ECE 4703 - Yu/ROS 2 turtlesim.md",
     "ECE 4715 - Eddin/Lecture 4 - 09182023.md",
@@ -337,20 +266,12 @@
     "linked list.md",
     "Notes/List.md",
     "Notes/Lecture Driver - 04252023.md",
-    "Notes/Lecture 8 - 03162023.md",
-    "Notes/Lecture 7 - 02232023.md",
-    "Notes/Lecture 6 - 02212023.md",
-    "Notes/Lecture 5 - 02072023.md",
     "Medias/Pasted image 20230509180747.png",
     "Medias/Pasted image 20230502181214.png",
     "Medias/Pasted image 20230502181207.png",
     "Medias/Pasted image 20230502175542.png",
     "Medias/Pasted image 20230502175439.png",
     "Medias/Pasted image 20230427183507.png",
-    "Medias/Pasted image 20230427182315.png",
-    "Medias/Pasted image 20230427182303.png",
-    "Medias/Pasted image 20230427181507.png",
-    "Medias/Pasted image 20230427181205.png"
->>>>>>> 1fd2b029024e6c54b95f87af2809843e4e480ec8
+    "Medias/Pasted image 20230427182315.png"
   ]
 }
