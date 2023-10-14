@@ -56,51 +56,31 @@ Connect the two with writing from knowledge gained from your book, Pps, and addi
 References
 
 -          Where, what, how food are grown?
-
 -          Grow what you want to grow
-
 -          Access to healthy food
-
 -          Fundamentals of food justice
-
 -          Change policies, food injustice,
-
 -          **Profit vs feeding people**
-
 -          Is it healthy? Highest cancer rate
-
 -          Poison and chemicals in our food
 
 -          “economic poison”
-
 -          Dirty dozen pesticides
-
 -          Fairness vs equity
 
 -          Food insecurity
-
 -          Policy matters?
-
 -          Understanding charity, “I am my brother’s keeper” – civic duty
-
 -          Proverty = pathology
-
 -          NGO – non governmental agency
 
 Topic:
-
 -          Ugly food
-
 -          Disposed food from restaurant gone to trash can right after and should have been given to homeless
-
 -          Farmer unable to sell food to anyone that they want because of the middle man (especially during covid)
-
 -          Is our food healthy? Food in USA using chemical that are being banned in every other country (red 40, etc)
-
 -          Native plant, native food resource
-
 -          High sugar, less nutritious
-
 -          Government subsidies making people dependent more and more to the government?
 
 -
