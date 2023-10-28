@@ -107,3 +107,7 @@ Page (139)
 Problems of value measurement arise even for hedonism (and other views that identify just a single thing as intrinsically beneficial). After all, happiness comes in many flavors. There is the happiness of momentary elation, of steady contentment, of physical excitement, of mental challenge, of exhausted gratitude. And that is only a small portion of the catalogue. Given these different kinds of happiness, it would be very surprising if there were some common [measures] of happiness that applied to each person.
 
 Page (142)
+
+
+https://www.ewg.org/research/nitratecost
+
