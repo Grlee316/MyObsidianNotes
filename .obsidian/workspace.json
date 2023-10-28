@@ -66,21 +66,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "4b008e8e69cdac01",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AG 4010 - Merlino/Book Essay - 4.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -155,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AG 4010 - Merlino/Book Essay - 4.md",
+                "file": "Linux Stuffs/Command.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AG 4010 - Merlino/Book Essay - 4.md",
+                "file": "Linux Stuffs/Command.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AG 4010 - Merlino/Book Essay - 4.md"
+                "file": "Linux Stuffs/Command.md"
               }
             }
           },
@@ -226,10 +214,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "da8209903d8f176a",
+  "active": "efaff466dd247c89",
   "lastOpenFiles": [
-    "ECE 4309 - Formicola/Lecture 11 - 10232023.md",
     "AG 4010 - Merlino/Book Essay - 4.md",
+    "ECE 4309 - Formicola/Lecture 11 - 10232023.md",
     "AG 4010 - Merlino/Book Essay - 3.md",
     "ECE 4715 - Eddin/Lecture 10 - 10112023.md",
     "ECE 4309 - Formicola/Lecture 8 - 10112023.md",

@@ -80,3 +80,30 @@ Turn in your APA Paper in the below Box. You will be able to see your percentage
 **Please Attach a File when turning into Turnitin- , DO NOT share a document. When you copy and paste into Turnitin.com it changes the format.**
 
 This tool needs to be loaded in a new browser window
+
+
+**CH 8**
+
+**Ethical egoism tells us that even when the stakes are very high for others, and very small for ourselves, we are entitled to ignore the needs,  wants, and interests of those who are our equals in all relevant ways. Egoism completely denies the moral importance of other people or other things (such as the environment), except insofar as they can help us to benefit ourselves.** That is a kind of deep bias that requires substantial defense. It isn't clear what that defense would be.  Page (118)
+
+**CH 9**
+
+The standard view is the first one. Right actions are those that actually bring about the best possible results. But since these are still in the future when the action is performed, we can never be completely sure that what we are about to do is the right thing.
+
+Yet every moral theory has to allow for some degree of moral ignorance cases where we don't know what is right or wrong. We are not morally infallible. Many utilitarians explain this by saying that since we don't have a crystal ball, and can't perfectly predict the future, we can never be certain in advance that our actions are morally right.
+
+Page (125)
+
+Greed, malice, ingratitude these are bound to make most people's top ten list of moral vices. Utilitarianism easily explains this. When people are motivated by such things, they tend to harm others. Utilitarians thus condemn such traits as vices. So do we.
+
+Page (129)
+
+**CH 10**
+
+According to utilitarianism, we must do what is optimific. We must maximize overall well-being. Thus, to know whether an action is morally required, we need to do four things: (1) add up all of the benefits it produces, (2) add up all of the harm it causes, (3) determine the balance, and then (4) see whether the balance is greater than that of any other available action.
+
+Page (139)
+
+Problems of value measurement arise even for hedonism (and other views that identify just a single thing as intrinsically beneficial). After all, happiness comes in many flavors. There is the happiness of momentary elation, of steady contentment, of physical excitement, of mental challenge, of exhausted gratitude. And that is only a small portion of the catalogue. Given these different kinds of happiness, it would be very surprising if there were some common [measures] of happiness that applied to each person.
+
+Page (142)
