@@ -83,4 +83,25 @@ Topic:
 -          High sugar, less nutritious
 -          Government subsidies making people dependent more and more to the government?
 
--
+=====================================================
+From the movie:
+Profit vs feeding people
+Economic poison
+High cancer rate
+Dirty dozen
+
+Topic:
+-          Ugly food
+-          Disposed food from restaurant gone to trash can right after and should have been given to homeless
+-          Farmer unable to sell food to anyone that they want because of the middle man (especially during covid)
+-          Is our food healthy? Food in USA using chemical that are being banned in every other country (red 40, etc)
+-          Native plant, native food resource
+-          High sugar, less nutritious
+-          Government subsidies making people dependent more and more to the government?
+- lower class population are unable to get a better food sources. They don’t have a good and complete “meals”
+- sugar content in our food
+- changing view and perspective about our beauty standard to accommodate the obese population
+- Companies war against “fat” and cholesterol, and how it allows more sugar
+
+Maybe can include:  
+empat sehat lima sempurna
