@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AG 4010 - Merlino/Book Essay - 3.md",
+                "file": "ECE 4715 - Eddin/Lecture 11 - 10302023.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AG 4010 - Merlino/Book Essay - 3.md",
+                "file": "ECE 4715 - Eddin/Lecture 11 - 10302023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AG 4010 - Merlino/Book Essay - 3.md",
+                "file": "ECE 4715 - Eddin/Lecture 11 - 10302023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AG 4010 - Merlino/Book Essay - 3.md"
+                "file": "ECE 4715 - Eddin/Lecture 11 - 10302023.md"
               }
             }
           },
@@ -213,13 +213,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "da8209903d8f176a",
+  "active": "efaff466dd247c89",
   "lastOpenFiles": [
+    "AG 4010 - Merlino/Book Essay - 3.md",
+    "ECE 4715 - Eddin/Lecture 11 - 10302023.md",
     "ECE 4703 - Yu/Documents/lecture4703-fa23-w8-1.pdf",
     "ECE 4703 - Yu/Documents/lecture4703-fa23-w7.pdf",
     "ECE 4703 - Yu/Documents/lecture4703-fa23-w6.pdf",
     "AG 4010 - Merlino/Book Essay - 4.md",
-    "AG 4010 - Merlino/Book Essay - 3.md",
     "ECE 4309 - Formicola/Lectures PDF/4309 - 05 - Social Engineering.pdf",
     "ECE 4309 - Formicola/Lectures PDF/4309 - 06 - Malicious Software - part 3 - Countermeasures - with space.pdf",
     "ECE 4309 - Formicola/Lectures PDF/4309 - 06 - Malicious Software - part 2 - with space.pdf",
@@ -227,7 +228,6 @@
     "ECE 4309 - Formicola/Lectures PDF/4309 - 03 - Vulnerabilities - with space.pdf",
     "ECE 4309 - Formicola/Lectures PDF/4309 - 06 - Malicious Software - part 2.pdf",
     "ECE 4309 - Formicola/Lectures PDF/4309 - 04 - Cyber Attacks, APTs, Threat Intelligence and Testing.pdf",
-    "ECE 4309 - Formicola/Lectures PDF/4309 - 04 - Cyber Attacks, APTs, Threat Intelligence and Testing - with space.pdf",
     "Linux Stuffs/Command.md",
     "ECE 4309 - Formicola/Lecture 11 - 10232023.md",
     "ECE 4715 - Eddin/Lecture 10 - 10112023.md",
