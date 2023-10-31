@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b1ff7c1f0fa0b283",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -156,7 +167,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3569bb6eb462fb1d",
+  "active": "b1ff7c1f0fa0b283",
   "lastOpenFiles": [
     "ECE 4703 - Yu/Homework/lu391907zkc0.tmp",
     "ECE 4703 - Yu/Homework/lu391907zkbn.tmp",
