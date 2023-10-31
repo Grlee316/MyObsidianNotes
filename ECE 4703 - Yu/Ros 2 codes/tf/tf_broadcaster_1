@@ -1,0 +1,31 @@
+import rclpy
+from geometry_msgs.msg import TransformStamped
+from turtlesim.msg import Pose
+import math
+import tf2_ros
+
+def handle_turtle_pose(msg, turtlename, tf_broadcaster):
+    transform = TransformStamped()
+    transform.header.stamp = rclpy.time.Time().to_msg()
+    transform.header.frame_id = "world"
+    transform.child_frame_id = turtlename
+    transform.transform.translation.x = msg.x
+    transform.transform.translation.y = msg.y
+    transform.transform.rotation.z = msg.theta
+
+    tf_broadcaster.sendTransform(transform)
+
+def main():
+    rclpy.init(args=None)
+    node = rclpy.create_node('turtle_tf_broadcaster')
+    tf_broadcaster = tf2_ros.TransformBroadcaster(node)
+    turtlename = node.declare_parameter('turtle').value
+
+    subscriber = node.create_subscription(Pose, '/' + turtlename + '/pose', lambda msg: handle_turtle_pose(msg, turtlename, tf_broadcaster), 10)
+
+    while rclpy.ok():
+        rclpy.spin_once(node)
+
+if __name__ == '__main__':
+    main()
+
