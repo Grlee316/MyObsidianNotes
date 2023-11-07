@@ -66,9 +66,31 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1d73e86ee3f1811d",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "ECE 4309 - Formicola/Lectures PDF/4309 - 03 - Vulnerabilities.pdf"
+              }
+            }
+          },
+          {
+            "id": "8a84e6478d5840b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -142,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ECE 4715 - Eddin/Lecture 11 - 10302023.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ECE 4715 - Eddin/Lecture 11 - 10302023.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ECE 4715 - Eddin/Lecture 11 - 10302023.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -213,22 +235,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "efaff466dd247c89",
+  "active": "8a84e6478d5840b8",
   "lastOpenFiles": [
-    "ECE 4703 - Yu/Week 7 - 10102023.md",
-    "ECE 4703 - Yu/Homework/ECE4703_Q2_JonathanHanbali.docx",
-    "ECE 4703 - Yu/Homework/ECE4703_Midterm_JonathanHanbali.odt",
-    "ECE 4703 - Yu/Homework/ECE4703_Midterm_JonathanHanbali.docx",
-    "AG 4010 - Merlino/Book Essay - 3.md",
-    "ECE 4715 - Eddin/Lecture 11 - 10302023.md",
-    "ECE 4703 - Yu/Documents/lecture4703-fa23-w8-1.pdf",
-    "ECE 4703 - Yu/Documents/lecture4703-fa23-w7.pdf",
-    "ECE 4703 - Yu/Documents/lecture4703-fa23-w6.pdf",
-    "AG 4010 - Merlino/Book Essay - 4.md",
-    "ECE 4309 - Formicola/Lectures PDF/4309 - 05 - Social Engineering.pdf",
+    "ECE 4309 - Formicola/Lectures PDF/4309 - 03 - Vulnerabilities.pdf",
+    "conflict-files-obsidian-git.md",
     "ECE 4309 - Formicola/Lectures PDF/4309 - 06 - Malicious Software - part 3 - Countermeasures - with space.pdf",
-    "ECE 4309 - Formicola/Lectures PDF/4309 - 06 - Malicious Software - part 2 - with space.pdf",
     "ECE 4309 - Formicola/Lectures PDF/4309 - 06 - Malicious Software - part 3 - Countermeasures.pdf",
+    "ECE 4309 - Formicola/Lectures PDF/4309 - 06 - Malicious Software - part 2 - with space.pdf",
+    "ECE 4309 - Formicola/Lectures PDF/4309 - 06 - Malicious Software - part 2.pdf",
+    "ECE 4309 - Formicola/Lectures PDF/4309 - 05 - Social Engineering - with space.pdf",
+    "ECE 4309 - Formicola/Lectures PDF/4309 - 05 - Social Engineering.pdf",
+    "ECE 4309 - Formicola/Lectures PDF/4309 - 04 - Malicious Software - part 1.pdf",
+    "ECE 4309 - Formicola/Lectures PDF/4309 - 04 - Malicious Software - part 1 - with space.pdf",
+    "ECE 4309 - Formicola/Lectures PDF/4309 - 04 - Cyber Attacks, APTs, Threat Intelligence and Testing.pdf",
+    "ECE 4309 - Formicola/Lectures PDF/4309 - 04 - Cyber Attacks, APTs, Threat Intelligence and Testing - with space.pdf",
+    "ECE 4715 - Eddin/Lecture 11 - 10302023.md",
+    "ECE 4703 - Yu/Week 7 - 10102023.md",
+    "AG 4010 - Merlino/Book Essay - 3.md",
+    "AG 4010 - Merlino/Book Essay - 4.md",
     "Linux Stuffs/Command.md",
     "ECE 4309 - Formicola/Lecture 11 - 10232023.md",
     "ECE 4715 - Eddin/Lecture 10 - 10112023.md",
@@ -251,10 +275,8 @@
     "ECE 4715 - Eddin/Lecture 7 - 09272023.md",
     "ECE 4309 - Formicola/Lecture 6 - 09252023.md",
     "ECE 4715 - Eddin/Lecture 6 - 09252023.md",
-    "conflict-files-obsidian-git.md",
     "ROS installation.md",
     "ROS 2 turtlesim.md",
-    "ECE 4703 - Yu/ROS installation.md",
     "Medias/Pasted image 20230509180747.png",
     "Medias/Pasted image 20230502181214.png",
     "Medias/Pasted image 20230502181207.png",

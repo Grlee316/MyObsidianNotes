@@ -1,0 +1,34 @@
+import rclpy
+from geometry_msgs.msg import Twist, TransformStamped
+import turtlesim.srv
+import math
+import tf2_ros
+
+def main():
+    rclpy.init(args=None)
+    node = rclpy.create_node('turtle_tf_listener')
+    tf_buffer = tf2_ros.Buffer()
+    tf_listener = tf2_ros.TransformListener(tf_buffer, node)
+
+    spawn_client = node.create_client(turtlesim.srv.Spawn, 'spawn')
+    turtle_vel = node.create_publisher(Twist, 'turtle2/cmd_vel', 1)
+
+    while rclpy.ok():
+        try:
+            transform = tf_buffer.lookup_transform('turtle2', 'turtle1', rclpy.time.Time())
+        except (tf2_ros.LookupException, tf2_ros.ConnectivityException, tf2_ros.ExtrapolationException):
+            continue
+        
+        angular = 4 * math.atan2(transform.transform.translation.y, transform.transform.translation.x)
+        linear = 0.5 * math.sqrt(transform.transform.translation.x ** 2 + transform.transform.translation.y ** 2)
+        
+        cmd = Twist()
+        cmd.linear.x = linear
+        cmd.angular.z = angular
+        turtle_vel.publish(cmd)
+
+        rclpy.spin_once(node)
+
+if __name__ == '__main__':
+    main()
+
