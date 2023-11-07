@@ -1,52 +1,110 @@
 {
   "main": {
-    "id": "0937301b2a920a69",
+    "id": "ea5d8eefdea31b5e",
     "type": "split",
     "children": [
       {
-        "id": "bfa12462a3d64c6a",
+        "id": "b5ce5080ccfc4c28",
         "type": "tabs",
         "children": [
           {
-            "id": "3569bb6eb462fb1d",
+            "id": "47ff5b72c662bd05",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ECE 4703 - Yu/Week 7 - 10102023.md",
+                "file": "ECE 4715 - Eddin/Lecture 7 - 09272023.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b1ff7c1f0fa0b283",
+            "id": "25d895e84287cec6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ECE 4703 - Yu/Ros 2 stuffs.md",
+                "file": "ECE 4303L - OMAR/Ucertify part 2 - The OSI Reference Model.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c371dc426b5c685f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ECE 4303L - OMAR/LAB 8 Note.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "824520fc5d97f4cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ECE 4703 - Yu/Lecture 1 - 08292023.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "efaff466dd247c89",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ECE 4715 - Eddin/Lecture 11 - 10302023.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1d73e86ee3f1811d",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "ECE 4309 - Formicola/Lectures PDF/4309 - 03 - Vulnerabilities.pdf"
+              }
+            }
+          },
+          {
+            "id": "8a84e6478d5840b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "638ffac0ae8b1598",
+    "id": "a23d3dd3023e9b4a",
     "type": "split",
     "children": [
       {
-        "id": "bee99e2750a04fdf",
+        "id": "bcc8f80c43836fab",
         "type": "tabs",
         "children": [
           {
-            "id": "023c34fbd4d9f8af",
+            "id": "da8209903d8f176a",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -56,7 +114,7 @@
             }
           },
           {
-            "id": "d2a37bd90d56430e",
+            "id": "695febf28cf6efce",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -71,7 +129,15 @@
             }
           },
           {
-            "id": "e8ac317944978c6e",
+            "id": "7e65f19ab50a29d5",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "0df1ab10a4a318ed",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -85,20 +151,20 @@
     "width": 300
   },
   "right": {
-    "id": "dba6c5cff77a905f",
+    "id": "72d67abf682f6205",
     "type": "split",
     "children": [
       {
-        "id": "b4f3560282e48d29",
+        "id": "e35617bf4aa139ef",
         "type": "tabs",
         "children": [
           {
-            "id": "b663f69b3a79e771",
+            "id": "c5f772762e8e0b30",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ECE 4703 - Yu/Ros 2 stuffs.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,19 +176,19 @@
             }
           },
           {
-            "id": "67ee60cec5fed630",
+            "id": "ab21e472969b0c88",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ECE 4703 - Yu/Ros 2 stuffs.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "7adefee4986ad4b0",
+            "id": "df221962dfaf224d",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,22 +199,22 @@
             }
           },
           {
-            "id": "df1b35f33a776430",
+            "id": "72db8fa28c745409",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "conflict-files-obsidian-git.md"
+              }
+            }
+          },
+          {
+            "id": "9fbdd56f0b00aa7f",
             "type": "leaf",
             "state": {
               "type": "all-properties",
               "state": {
                 "sortOrder": "frequency"
-              }
-            }
-          },
-          {
-            "id": "5c31dfe14434bc03",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "ECE 4703 - Yu/Ros 2 stuffs.md"
               }
             }
           }
@@ -169,23 +235,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "023c34fbd4d9f8af",
+  "active": "8a84e6478d5840b8",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "ECE 4703 - Yu/ROS installation.md",
-    "ECE 4703 - Yu/ROS2 CATKIN.md",
-    "Docker/How to install Docker.md",
-    "ECE 4703 - Yu/Documents/lecture4703-fa23-w7.pdf",
     "ECE 4703 - Yu/Homework/ECE4703_HW3_JonathanHanbali.pdf",
-    "ECE 4703 - Yu/Homework/lu2434xbg.tmp",
-    "ECE 4703 - Yu/Homework/lu2434xas.tmp",
-    "ECE 4703 - Yu/Homework/lu2434xa5.tmp",
-    "ECE 4703 - Yu/Homework/lu2434x90.tmp",
     "ECE 4703 - Yu/Homework/ECE4703_HW3_JonathanHanbali.odt",
-    "ECE 4703 - Yu/Homework/lu2434x7x.tmp",
-    "ECE 4703 - Yu/Documents/lecture4703-fa23-w8-1.pdf",
-    "ECE 4703 - Yu/Ros 1 Codes/TF/turtle_tf_listener.py",
+    "ECE 4309 - Formicola/Lectures PDF/4309 - 03 - Vulnerabilities.pdf",
+    "conflict-files-obsidian-git.md",
+    "ECE 4309 - Formicola/Lectures PDF/4309 - 06 - Malicious Software - part 3 - Countermeasures - with space.pdf",
+    "ECE 4309 - Formicola/Lectures PDF/4309 - 06 - Malicious Software - part 3 - Countermeasures.pdf",
+    "ECE 4309 - Formicola/Lectures PDF/4309 - 06 - Malicious Software - part 2 - with space.pdf",
+    "ECE 4309 - Formicola/Lectures PDF/4309 - 06 - Malicious Software - part 2.pdf",
+    "ECE 4309 - Formicola/Lectures PDF/4309 - 05 - Social Engineering - with space.pdf",
+    "ECE 4309 - Formicola/Lectures PDF/4309 - 05 - Social Engineering.pdf",
+    "ECE 4309 - Formicola/Lectures PDF/4309 - 04 - Malicious Software - part 1.pdf",
+    "ECE 4309 - Formicola/Lectures PDF/4309 - 04 - Malicious Software - part 1 - with space.pdf",
+    "ECE 4715 - Eddin/Lecture 11 - 10302023.md",
+    "ECE 4703 - Yu/Week 7 - 10102023.md",
+    "AG 4010 - Merlino/Book Essay - 3.md",
+    "AG 4010 - Merlino/Book Essay - 4.md",
+    "Linux Stuffs/Command.md",
+    "ECE 4309 - Formicola/Lecture 11 - 10232023.md",
+    "ECE 4715 - Eddin/Lecture 10 - 10112023.md",
+    "ECE 4309 - Formicola/Lecture 8 - 10112023.md",
+    "ECE 4715 - Eddin/Lecture 9 - 10092023.md",
+    "Pasted Pictures/Pasted image 20231003201449.png",
+    "Pasted Pictures/Pasted image 20231003200856.png",
+    "Pasted Pictures/Pasted image 20231002131758.png",
+    "Pasted Pictures/Pasted image 20231002131254.png",
     "ECE 4703 - Yu/Ros 2 stuffs.md",
-    "ECE 4703 - Yu/Week 7 - 10102023.md"
+    "ECE 4309 - Formicola/Lecture 7 - 10022023.md",
+    "Docker/How to install Docker.md",
+    "AG 4010 - Merlino/Book Essay - 2.md",
+    "ECE 4715 - Eddin/Lecture 8 - 10022023.md",
+    "ECE 4703 - Yu/Catkin.md",
+    "AG 4010 - Merlino/Book Essay - 1.md",
+    "ECE 4703 - Yu/Lecture 1 - 08292023.md",
+    "ECE 4309 - Formicola/Lecture 4 - 09132023.md",
+    "ECE 4303L - OMAR/Ucertify part 2 - The OSI Reference Model.md",
+    "ECE 4715 - Eddin/Lecture 7 - 09272023.md",
+    "ECE 4309 - Formicola/Lecture 6 - 09252023.md",
+    "ECE 4715 - Eddin/Lecture 6 - 09252023.md",
+    "ROS installation.md",
+    "ROS 2 turtlesim.md",
+    "Medias/Pasted image 20230509180747.png",
+    "Medias/Pasted image 20230502181214.png",
+    "Medias/Pasted image 20230502181207.png",
+    "Medias/Pasted image 20230502175542.png",
+    "Medias/Pasted image 20230502175439.png",
+    "Medias/Pasted image 20230427183507.png"
   ]
 }
