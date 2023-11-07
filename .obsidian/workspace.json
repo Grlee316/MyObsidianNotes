@@ -23,9 +23,11 @@
             "id": "b1ff7c1f0fa0b283",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "ECE 4703 - Yu/Documents/lecture4703-fa23-w7.pdf"
+                "file": "ECE 4703 - Yu/Ros 2 stuffs.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -96,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ECE 4703 - Yu/Documents/lecture4703-fa23-w7.pdf",
+                "file": "ECE 4703 - Yu/Ros 2 stuffs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ECE 4703 - Yu/Documents/lecture4703-fa23-w7.pdf",
+                "file": "ECE 4703 - Yu/Ros 2 stuffs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ECE 4703 - Yu/Documents/lecture4703-fa23-w7.pdf"
+                "file": "ECE 4703 - Yu/Ros 2 stuffs.md"
               }
             }
           }
@@ -167,8 +169,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b1ff7c1f0fa0b283",
+  "active": "023c34fbd4d9f8af",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "ECE 4703 - Yu/ROS installation.md",
+    "ECE 4703 - Yu/ROS2 CATKIN.md",
+    "Docker/How to install Docker.md",
+    "ECE 4703 - Yu/Documents/lecture4703-fa23-w7.pdf",
     "ECE 4703 - Yu/Homework/ECE4703_HW3_JonathanHanbali.pdf",
     "ECE 4703 - Yu/Homework/lu2434xbg.tmp",
     "ECE 4703 - Yu/Homework/lu2434xas.tmp",
@@ -178,8 +185,6 @@
     "ECE 4703 - Yu/Homework/lu2434x7x.tmp",
     "ECE 4703 - Yu/Documents/lecture4703-fa23-w8-1.pdf",
     "ECE 4703 - Yu/Ros 1 Codes/TF/turtle_tf_listener.py",
-    "ECE 4703 - Yu/Ros 1 Codes/TF/turtle_tf_broadcaster.py",
-    "ECE 4703 - Yu/Ros 1 Codes/TF/Ros1/turtle_tf_listener.py",
     "ECE 4703 - Yu/Ros 2 stuffs.md",
     "ECE 4703 - Yu/Week 7 - 10102023.md"
   ]
