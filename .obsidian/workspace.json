@@ -71,9 +71,11 @@
             "id": "1d73e86ee3f1811d",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "ECE 4309 - Formicola/Lectures PDF/4309 - 03 - Vulnerabilities.pdf"
+                "file": "AG 4010 - Merlino/Book Essay - 5.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -152,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ECE 4309 - Formicola/Lectures PDF/4309 - 03 - Vulnerabilities.pdf",
+                "file": "AG 4010 - Merlino/Book Essay - 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ECE 4309 - Formicola/Lectures PDF/4309 - 03 - Vulnerabilities.pdf",
+                "file": "AG 4010 - Merlino/Book Essay - 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ECE 4309 - Formicola/Lectures PDF/4309 - 03 - Vulnerabilities.pdf"
+                "file": "AG 4010 - Merlino/Book Essay - 5.md"
               }
             }
           },
@@ -225,11 +227,12 @@
   },
   "active": "1d73e86ee3f1811d",
   "lastOpenFiles": [
+    "ECE 4309 - Formicola/Lectures PDF/4309 - 03 - Vulnerabilities.pdf",
+    "AG 4010 - Merlino/Book Essay - 5.md",
     "conflict-files-obsidian-git.md",
     "Docker/Installing Docker Engine.md",
     "ECE 4703 - Yu/Homework/ECE4703_HW3_JonathanHanbali.pdf",
     "ECE 4703 - Yu/Homework/ECE4703_HW3_JonathanHanbali.odt",
-    "ECE 4309 - Formicola/Lectures PDF/4309 - 03 - Vulnerabilities.pdf",
     "ECE 4309 - Formicola/Lectures PDF/4309 - 06 - Malicious Software - part 3 - Countermeasures - with space.pdf",
     "ECE 4309 - Formicola/Lectures PDF/4309 - 06 - Malicious Software - part 3 - Countermeasures.pdf",
     "ECE 4309 - Formicola/Lectures PDF/4309 - 06 - Malicious Software - part 2 - with space.pdf",
@@ -263,8 +266,6 @@
     "ECE 4715 - Eddin/Lecture 7 - 09272023.md",
     "ECE 4309 - Formicola/Lecture 6 - 09252023.md",
     "ECE 4715 - Eddin/Lecture 6 - 09252023.md",
-    "ROS installation.md",
-    "ROS 2 turtlesim.md",
     "Medias/Pasted image 20230509180747.png",
     "Medias/Pasted image 20230502181214.png",
     "Medias/Pasted image 20230502181207.png",
