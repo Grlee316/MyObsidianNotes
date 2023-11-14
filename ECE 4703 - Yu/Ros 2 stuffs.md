@@ -20,3 +20,6 @@ customize package.xml
 ![[Pasted image 20231003201449.png]]
 
 
+## **Installing XACRO**
+sudo apt install ros-humble-xacro
+
