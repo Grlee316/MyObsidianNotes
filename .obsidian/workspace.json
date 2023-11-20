@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ECE 4715 - Eddin/Lecture 12- 11152023.md",
+                "file": "ECE 4715 - Eddin/Lecture 13 - 11202023.md",
                 "mode": "source",
                 "source": false
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ECE 4715 - Eddin/Lecture 12- 11152023.md",
+                "file": "ECE 4715 - Eddin/Lecture 13 - 11202023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ECE 4715 - Eddin/Lecture 12- 11152023.md",
+                "file": "ECE 4715 - Eddin/Lecture 13 - 11202023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ECE 4715 - Eddin/Lecture 12- 11152023.md"
+                "file": "ECE 4715 - Eddin/Lecture 13 - 11202023.md"
               }
             }
           },
@@ -227,8 +227,9 @@
   },
   "active": "1d73e86ee3f1811d",
   "lastOpenFiles": [
-    "AG 4010 - Merlino/Book Essay - 5.md",
     "ECE 4715 - Eddin/Lecture 12- 11152023.md",
+    "ECE 4715 - Eddin/Lecture 13 - 11202023.md",
+    "AG 4010 - Merlino/Book Essay - 5.md",
     "ECE 4309 - Formicola/Lectures PDF/4309 - 03 - Vulnerabilities.pdf",
     "conflict-files-obsidian-git.md",
     "Docker/Installing Docker Engine.md",
@@ -266,7 +267,6 @@
     "ECE 4303L - OMAR/Ucertify part 2 - The OSI Reference Model.md",
     "ECE 4715 - Eddin/Lecture 7 - 09272023.md",
     "ECE 4309 - Formicola/Lecture 6 - 09252023.md",
-    "ECE 4715 - Eddin/Lecture 6 - 09252023.md",
     "Medias/Pasted image 20230509180747.png",
     "Medias/Pasted image 20230502181214.png",
     "Medias/Pasted image 20230502181207.png",
