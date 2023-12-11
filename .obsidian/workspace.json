@@ -71,9 +71,11 @@
             "id": "1d73e86ee3f1811d",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "ECE 4309 - Formicola/Lectures PDF/4309 - 09 - Firewalls.pdf"
+                "file": "ECE 4715 - Eddin/Lecture 14 - 11272023.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -152,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ECE 4309 - Formicola/Lectures PDF/4309 - 09 - Firewalls.pdf",
+                "file": "ECE 4715 - Eddin/Lecture 14 - 11272023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ECE 4309 - Formicola/Lectures PDF/4309 - 09 - Firewalls.pdf",
+                "file": "ECE 4715 - Eddin/Lecture 14 - 11272023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ECE 4309 - Formicola/Lectures PDF/4309 - 09 - Firewalls.pdf"
+                "file": "ECE 4715 - Eddin/Lecture 14 - 11272023.md"
               }
             }
           },
@@ -225,9 +227,10 @@
   },
   "active": "1d73e86ee3f1811d",
   "lastOpenFiles": [
+    "ECE 4715 - Eddin/Lecture 13 - 11202023.md",
+    "ECE 4309 - Formicola/Lectures PDF/4309 - 09 - Firewalls.pdf",
     "ECE 4309 - Formicola/Lectures PDF/4309 - 09 - Denial of Service attacks.pdf",
     "ECE 4309 - Formicola/Lectures PDF/4309 - 07 - Sniffing Lab.pdf",
-    "ECE 4309 - Formicola/Lectures PDF/4309 - 09 - Firewalls.pdf",
     "ECE 4309 - Formicola/Lectures PDF/4309 - 10 - Intrusion Detection.pdf",
     "ECE 4309 - Formicola/Lectures PDF/4309 - 07 - Sniffing Lab - with space.pdf",
     "ECE 4715 - Eddin/Lecture 14 - 11272023.md",
@@ -236,7 +239,6 @@
     "ECE 4309 - Formicola/Lectures PDF/4309 - 09 - Firewalls - with space.pdf",
     "ECE 4309 - Formicola/Lectures PDF/4309 - 09 - Denial of Service attacks - with space.pdf",
     "AG 4010 - Merlino/Book Essay - 3.md",
-    "ECE 4715 - Eddin/Lecture 13 - 11202023.md",
     "ECE 4703 - Yu/Documents/lecture4703-fa23-w13.pdf",
     "ECE 4715 - Eddin/Lecture 12- 11152023.md",
     "AG 4010 - Merlino/Book Essay - 5.md",
