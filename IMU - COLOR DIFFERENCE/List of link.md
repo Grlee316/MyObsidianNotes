@@ -17,3 +17,12 @@ https://medium.com/analytics-vidhya/skeletonization-in-python-using-opencv-b7fa1
 
 Gradient Descent:
 https://towardsdatascience.com/gradient-descent-algorithm-a-deep-dive-cf04e8115f21
+
+DLC Links:
+https://ieeexplore.ieee.org/abstract/document/8858533
+
+Media Pipe:
+https://medium.com/mlearning-ai/an-easy-guide-for-pose-estimation-with-googles-mediapipe-a7962de0e944
+
+https://towardsdev.com/hand-tracking-using-mediapipe-263c40ad6914
+
