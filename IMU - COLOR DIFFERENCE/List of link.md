@@ -26,3 +26,16 @@ https://medium.com/mlearning-ai/an-easy-guide-for-pose-estimation-with-googles-m
 
 https://towardsdev.com/hand-tracking-using-mediapipe-263c40ad6914
 
+Spurious edge of skeleton
+https://www.mathworks.com/matlabcentral/answers/88284-remove-the-spurious-edge-of-skeleton
+
+
+NRF52 Arduino Github
+https://github.com/adafruit/Adafruit_nRF52_Arduino/tree/master
+
+Library List
+https://www.arduinolibraries.info/architectures/nrf52
+
+Markerless Tracking:
+https://www.youtube.com/watch?v=rj6AeceKpzs
+
