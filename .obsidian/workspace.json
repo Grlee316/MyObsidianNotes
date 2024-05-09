@@ -100,9 +100,19 @@
                 "currentVersion": "1.5.3"
               }
             }
+          },
+          {
+            "id": "fc845c7889187454",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -250,7 +260,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d1daa1048a98d80a",
+  "active": "fc845c7889187454",
   "lastOpenFiles": [
     "Untitled.md",
     "IMU - COLOR DIFFERENCE/List of link.md",
