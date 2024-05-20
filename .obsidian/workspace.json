@@ -105,9 +105,11 @@
             "id": "fc845c7889187454",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.12"
+                "file": "Notes/Lecture 3 - 01312023.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -186,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IMU - COLOR DIFFERENCE/List of link.md",
+                "file": "Notes/Lecture 3 - 01312023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +205,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IMU - COLOR DIFFERENCE/List of link.md",
+                "file": "Notes/Lecture 3 - 01312023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IMU - COLOR DIFFERENCE/List of link.md"
+                "file": "Notes/Lecture 3 - 01312023.md"
               }
             }
           },
@@ -261,6 +263,10 @@
   },
   "active": "fc845c7889187454",
   "lastOpenFiles": [
+    "Good Stuffs.md",
+    "Housing 2.0.md",
+    "Linux.md",
+    "linked list.md",
     "Untitled.md",
     "IMU - COLOR DIFFERENCE/List of link.md",
     "IMU - COLOR DIFFERENCE",
@@ -297,10 +303,6 @@
     "ECE 4309 - Formicola/Lecture 7 - 10022023.md",
     "Docker/How to install Docker.md",
     "AG 4010 - Merlino/Book Essay - 2.md",
-    "ECE 4715 - Eddin/Lecture 8 - 10022023.md",
-    "ECE 4703 - Yu/Catkin.md",
-    "AG 4010 - Merlino/Book Essay - 1.md",
-    "ECE 4703 - Yu/Lecture 1 - 08292023.md",
     "Medias/Pasted image 20230509180747.png",
     "Medias/Pasted image 20230502181214.png",
     "Medias/Pasted image 20230502181207.png",
