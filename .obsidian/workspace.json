@@ -112,9 +112,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2cbb271ec948078d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C - Coding Notes/Bitwise Operators.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -188,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Lecture 3 - 01312023.md",
+                "file": "C - Coding Notes/Bitwise Operators.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +217,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Lecture 3 - 01312023.md",
+                "file": "C - Coding Notes/Bitwise Operators.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -228,7 +240,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Lecture 3 - 01312023.md"
+                "file": "C - Coding Notes/Bitwise Operators.md"
               }
             }
           },
@@ -261,13 +273,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fc845c7889187454",
+  "active": "2cbb271ec948078d",
   "lastOpenFiles": [
+    "Pasted Pictures/Pasted image 20240527235432.png",
+    "C - Coding Notes/Bitwise Operators.md",
+    "C - Coding Notes",
+    "Notes/Lecture 3 - 01312023.md",
     "Good Stuffs.md",
     "Housing 2.0.md",
     "Linux.md",
     "linked list.md",
-    "Untitled.md",
     "IMU - COLOR DIFFERENCE/List of link.md",
     "IMU - COLOR DIFFERENCE",
     "ECE 4715 - Eddin/Lecture 13 - 11202023.md",
@@ -282,7 +297,6 @@
     "ECE 4309 - Formicola/Lectures PDF/4309 - 09 - Firewalls - with space.pdf",
     "ECE 4309 - Formicola/Lectures PDF/4309 - 09 - Denial of Service attacks - with space.pdf",
     "AG 4010 - Merlino/Book Essay - 3.md",
-    "ECE 4703 - Yu/Documents/lecture4703-fa23-w13.pdf",
     "ECE 4715 - Eddin/Lecture 12- 11152023.md",
     "AG 4010 - Merlino/Book Essay - 5.md",
     "conflict-files-obsidian-git.md",
@@ -301,8 +315,6 @@
     "Pasted Pictures/Pasted image 20231002131254.png",
     "ECE 4703 - Yu/Ros 2 stuffs.md",
     "ECE 4309 - Formicola/Lecture 7 - 10022023.md",
-    "Docker/How to install Docker.md",
-    "AG 4010 - Merlino/Book Essay - 2.md",
     "Medias/Pasted image 20230509180747.png",
     "Medias/Pasted image 20230502181214.png",
     "Medias/Pasted image 20230502181207.png",
