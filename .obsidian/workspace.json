@@ -107,7 +107,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Lecture 3 - 01312023.md",
+                "file": "ECE 4310 - Notes/Lecture 3 - 01312023.md",
                 "mode": "source",
                 "source": false
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Lecture 12 - 04112023.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -200,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Lecture 12 - 04112023.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,7 +217,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Lecture 12 - 04112023.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -240,7 +240,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Lecture 12 - 04112023.md"
+                "file": "README.md"
               }
             }
           },
@@ -274,21 +274,27 @@
   },
   "active": "2cbb271ec948078d",
   "lastOpenFiles": [
-    "Notes/Lecture 8 - 03162023.md",
-    "Notes/Lecture 7 - 02232023.md",
-    "Notes/Lecture 6 - 02212023.md",
-    "Notes/Lecture 5 - 02072023.md",
-    "Notes/Lecture 4 - 02022023.md",
-    "Notes/Lecture 3 - 01312023.md",
-    "Notes/IOCTL.md",
-    "Linux Stuffs/Command.md",
+    "PNG Image and its Encoding-Decoding Process.md",
+    "Networking Notes.md",
+    "lottery.md",
+    "linked list.md",
+    "ECE 4310 - Notes/Linux.md",
+    "Housing 2.0.md",
+    "Good Stuffs.md",
+    "ECE 4310 - Notes/Command.md",
+    "ECE 4310 - Notes/List.md",
+    "ECE 4310 - Notes/Lecture Driver - 04252023.md",
+    "ECE 4310 - Notes/Lecture 12 - 04112023.md",
+    "ECE 4310 - Notes/Lecture 8 - 03162023.md",
+    "ECE 4310 - Notes/Lecture 7 - 02232023.md",
+    "ECE 4310 - Notes/Lecture 6 - 02212023.md",
+    "ECE 4310 - Notes/Lecture 5 - 02072023.md",
+    "ECE 4310 - Notes/Lecture 4 - 02022023.md",
+    "ECE 4310 - Notes/Lecture 3 - 01312023.md",
+    "ECE 4310 - Notes/IOCTL.md",
     "C - Coding Notes/Bitwise Operators.md",
     "Pasted Pictures/Pasted image 20240527235432.png",
     "C - Coding Notes",
-    "Good Stuffs.md",
-    "Housing 2.0.md",
-    "Linux.md",
-    "linked list.md",
     "IMU - COLOR DIFFERENCE/List of link.md",
     "IMU - COLOR DIFFERENCE",
     "ECE 4715 - Eddin/Lecture 13 - 11202023.md",
@@ -305,12 +311,6 @@
     "AG 4010 - Merlino/Book Essay - 3.md",
     "ECE 4715 - Eddin/Lecture 12- 11152023.md",
     "AG 4010 - Merlino/Book Essay - 5.md",
-    "conflict-files-obsidian-git.md",
-    "Docker/Installing Docker Engine.md",
-    "ECE 4715 - Eddin/Lecture 11 - 10302023.md",
-    "ECE 4703 - Yu/Week 7 - 10102023.md",
-    "AG 4010 - Merlino/Book Essay - 4.md",
-    "ECE 4309 - Formicola/Lecture 11 - 10232023.md",
     "Pasted Pictures/Pasted image 20231003201449.png",
     "Pasted Pictures/Pasted image 20231003200856.png",
     "Pasted Pictures/Pasted image 20231002131758.png",
